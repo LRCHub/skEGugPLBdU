@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アネクドート",
+  "base_artist": "szri",
+  "createdAt": "2025-12-13T12:10:28.655696Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アネクドート",
+      "artist": "szri",
+      "has_synced": false,
+      "path": "select/pl_01_アネクドート_szri.txt"
+    }
+  ]
+}
